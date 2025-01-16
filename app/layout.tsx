@@ -11,7 +11,7 @@ import { EdgeStoreProvider } from "@/lib/edgestore";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Zotion",
+  title: "Oriential Notion",
   description:
     "The seamless platform where creative and productive work happens.",
   icons: {
